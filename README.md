@@ -1,3 +1,5 @@
+# SKILL: Creatify Studio
+
 # Creatify Studio — Claude Code Plugin
 
 ## Generate full AI video ads with avatars, voice, and B-roll — automatically.
