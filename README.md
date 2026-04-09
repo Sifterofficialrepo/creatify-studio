@@ -38,7 +38,7 @@ Everything in Producer plus:
 Claude Code + browser automation tools + Creatify / HeyGen accounts
 
 ## Purchase
-👉 [Get it here](PASTE_YOUR_GUMROAD_LINK_HERE)
+👉 [Get it here](https://siftermike.gumroad.com/l/qhztyu)
 
 ## Guarantee
 30-day money-back guarantee.
