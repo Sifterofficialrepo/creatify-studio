@@ -40,3 +40,9 @@ Claude Code + browser automation tools + Creatify / HeyGen accounts
 
 ## Guarantee
 30-day money-back guarantee.
+
+## Skill Metadata
+
+- Category: AI Video Production
+- Tags: invideo, video ads, AI video, automation, claude code, plugin
+- Type: Claude Code Skill
